@@ -85,9 +85,10 @@ class _HomePageState extends State<HomePage> {
       0.2,
       1.0
     ];
+    //added
 
     return Scaffold(
-      backgroundColor: Color(0xffB7CADB),
+      backgroundColor: Color(0xffC6C5B3),
       body: Center(
         child: Card(
           elevation: 10,
